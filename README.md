@@ -1,1 +1,1 @@
-# ReversiBot
+# Python Telegram Bot Playing Reversi
