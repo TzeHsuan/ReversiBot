@@ -2,7 +2,7 @@
 
 [Here](https://hackmd.io/@truckski/BJ_l615N2) is the instructions set by the professor and teaching assistants.
 
-[Here](https://youtu.be/WrXAK5qLIC4) is the demo video, which al so includes my promts of asking ChatGPT and my explanation of the code in Mandarin Chienese.
+[Here](https://youtu.be/WrXAK5qLIC4) is the demo video, which also includes my promts of asking ChatGPT and my explanation of the code in Mandarin Chienese.
 
 ## How to Run The Code
 I run my code using PyCharm CE.
