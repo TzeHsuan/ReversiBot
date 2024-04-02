@@ -4,6 +4,8 @@
 
 [Here](https://youtu.be/WrXAK5qLIC4) is the demo video, which also includes my promts of asking ChatGPT and my explanation of the code in Mandarin Chienese.
 
+Using Python and the API of Telegram bot, I implemented the game logic for Reversi, including valid move checking, disc flipping, and determining game end conditions.
+
 ## How to Run The Code
 I ran my code using PyCharm CE.
 
